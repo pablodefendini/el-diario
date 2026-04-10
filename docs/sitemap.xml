@@ -134,13 +134,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/categoria-legislatura.html</loc>
+    <loc>https://eldiario.pr/categoria-comunidades.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/categoria-comunidades.html</loc>
+    <loc>https://eldiario.pr/categoria-legislatura.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -224,12 +224,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/categoria-tecnologia.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/categoria-entretenimiento.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>daily</changefreq>
@@ -255,6 +249,12 @@
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-inmigracion.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-tecnologia.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -326,13 +326,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-junta-de-retiro-de-la-upr-exige-que-se-incluyan-aportaciones-patronales-en-el-plan-fiscal.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-israel-autoriza-negociaciones-con-libano-tras-escalada-de-tensiones.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-israel-autoriza-negociaciones-con-libano-tras-escalada-de-tensiones.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-junta-de-retiro-de-la-upr-exige-que-se-incluyan-aportaciones-patronales-en-el-plan-fiscal.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -392,13 +392,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-juez-considera-que-pentagono-incumple-orden-de-restablecer-acceso-a-periodistas.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-joseph-gonzalez-aclara-sobre-la-cooperacion-del-jefe-de-escoltas-de-janet-parra.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-joseph-gonzalez-aclara-sobre-la-cooperacion-del-jefe-de-escoltas-de-janet-parra.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-juez-considera-que-pentagono-incumple-orden-de-restablecer-acceso-a-periodistas.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -416,13 +416,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-amonestan-a-representante-por-solicitar-intervencion-de-la-policia.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-odsec-intensifica-intervenciones-para-atender-la-pobreza-extrema-en-comunidades-vulnerables.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-odsec-intensifica-intervenciones-para-atender-la-pobreza-extrema-en-comunidades-vulnerables.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-amonestan-a-representante-por-solicitar-intervencion-de-la-policia.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -476,19 +476,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-autor-puertorriqueno-escribe-libro-de-mitologia-taina-para-ninos.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-camara-asigna-2m-a-ser-para-un-centro-de-servicios-para-ninos-con-autismo.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-melania-trump-niega-vinculos-con-jeffrey-epstein.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-autor-puertorriqueno-escribe-libro-de-mitologia-taina-para-ninos.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -500,7 +494,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-senado-aprueba-medida-para-fomentar-donaciones-a-organizaciones-sin-fines-de-lucro.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-melania-trump-niega-vinculos-con-jeffrey-epstein.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -512,13 +506,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-estudiantes-de-la-upr-salen-con-mas-dudas-que-respuestas-tras-reunion-con-la-presidenta.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-senado-aprueba-medida-para-fomentar-donaciones-a-organizaciones-sin-fines-de-lucro.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-emmanuel-macron-visita-comunidad-de-caridad-en-roma-antes-de-audiencia-papal.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-10-estudiantes-de-la-upr-salen-con-mas-dudas-que-respuestas-tras-reunion-con-la-presidenta.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -548,13 +548,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-estudio-revela-pagos-millonarios-a-planes-advantage-sin-mejoria-en-servicio.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-turista-de-kentucky-sufre-quemaduras-de-tercer-grado-al-tropezar-con-antorcha-en-el-viejo-san-juan.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-turista-de-kentucky-sufre-quemaduras-de-tercer-grado-al-tropezar-con-antorcha-en-el-viejo-san-juan.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-estudio-revela-pagos-millonarios-a-planes-advantage-sin-mejoria-en-servicio.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -572,19 +572,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-racismo-impacta-bienestar-de-jovenes-afrodescendientes-en-puerto-rico.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-fin-de-semana-estable-con-acercamiento-de-vaguada-el-domingo-temporada-de-huracanes-bajo-el-promedio.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-superintendente-confirma-que-wanda-vazquez-perdio-escoltas-policiales.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-racismo-impacta-bienestar-de-jovenes-afrodescendientes-en-puerto-rico.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -596,7 +590,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-atleticos-blanquean-a-los-yankees-1-0-con-pitcheo-combinado-de-tres-lanzadores.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-superintendente-confirma-que-wanda-vazquez-perdio-escoltas-policiales.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -608,13 +602,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-cangrejeras-de-santurce-a-un-triunfo-de-la-final-del-voleibol-superior-femenino.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-atleticos-blanquean-a-los-yankees-1-0-con-pitcheo-combinado-de-tres-lanzadores.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-fondos-federales-para-resiliencia-e-infraestructura-llegan-a-hatillo.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-10-cangrejeras-de-santurce-a-un-triunfo-de-la-final-del-voleibol-superior-femenino.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -632,25 +632,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-la-seleccion-boricua-se-prepara-para-enfrentar-a-brasil-este-domingo-en-el-loubriel.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-senado-aprueba-medidas-sobre-salud-economia-e-innovacion.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-alberto-el-explosivo-machado-regresa-al-ring-el-18-de-abril.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-la-seleccion-boricua-se-prepara-para-enfrentar-a-brasil-este-domingo-en-el-loubriel.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-joseph-gonzalez-se-corrige-parra-si-coopero-en-pesquisa-del-senado.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-10-alberto-el-explosivo-machado-regresa-al-ring-el-18-de-abril.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -680,13 +680,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-camara-busca-ejecutar-comision-especial-sobre-nuevo-codigo-de-permisos.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-true-colors-fest-2026-presenta-su-cartelera-teatral-en-bellas-artes.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-true-colors-fest-2026-presenta-su-cartelera-teatral-en-bellas-artes.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-camara-busca-ejecutar-comision-especial-sobre-nuevo-codigo-de-permisos.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -710,31 +710,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-evertec-alcanza-maxima-categoria-de-amazon-web-services-como-socio-premier.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-comienza-la-carrera-hacia-los-premios-tu-musica-urbano-mix-2026.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-arajet-consolida-alianza-con-los-miami-marlins.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-artistas-latinos-protagonizan-coachella-2026-con-reggaeton-y-cumbia.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-influencers-con-clase-regresa-para-reconocer-maestros-transformadores.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-artistas-latinos-protagonizan-coachella-2026-con-reggaeton-y-cumbia.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -752,19 +740,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-manuel-turizo-lanza-album-apambichao.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-jasond-calderon-triunfa-con-stand-up-sobre-el-pana-incordio-y-expande-sus-funciones.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-michael-j-fox-desmiente-su-muerte-tras-error-de-cnn.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-manuel-turizo-lanza-album-apambichao.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -776,13 +758,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-afrika-bambaataa-el-padrino-del-hip-hop-muere-a-los-68-anos.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-michael-j-fox-desmiente-su-muerte-tras-error-de-cnn.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-uka-green-presenta-bendita-abuelitud.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-10-afrika-bambaataa-el-padrino-del-hip-hop-muere-a-los-68-anos.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -812,19 +800,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-el-gasto-del-consumidor-estadounidense-enfrenta-presion-por-el-alza-en-los-costos-de-combustible.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-clinicas-deportivas-inclusivas-para-jovenes-con-diversidad-funcional.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-doble-a-dedica-fin-de-semana-a-roberto-clemente.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-el-gasto-del-consumidor-estadounidense-enfrenta-presion-por-el-alza-en-los-costos-de-combustible.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -836,13 +818,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-juez-federal-anula-por-segunda-vez-las-restricciones-de-prensa-de-hegseth-en-el-pentagono.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-doble-a-dedica-fin-de-semana-a-roberto-clemente.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-republica-dominicana-rinde-homenaje-a-victimas-del-jet-set.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-10-juez-federal-anula-por-segunda-vez-las-restricciones-de-prensa-de-hegseth-en-el-pentagono.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -884,19 +872,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-trump-da-preferencia-a-refugiados-blancos-de-sudafrica-frente-a-otras-nacionalidades.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-reforma-de-permisos-genera-debate-en-senado-y-camara.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-hacienda-distribuye-reintegros-mientras-legisladores-cuestionan-programa.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-trump-da-preferencia-a-refugiados-blancos-de-sudafrica-frente-a-otras-nacionalidades.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -908,19 +890,13 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://eldiario.pr/articulo/2026-04-10-hacienda-distribuye-reintegros-mientras-legisladores-cuestionan-programa.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-lider-opositor-de-taiwan-pide-reconciliacion-tras-reunion-historica-con-xi-jinping-en-pekin.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-seguros-multiples-reparte-41-millones-entre-asegurados.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-rusia-y-ucrania-acuerdan-tregua-de-32-horas-por-la-pascua-ortodoxa.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -932,13 +908,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-israel-bombardea-zonas-residenciales-del-sur-del-libano-mientras-netanyahu-aprueba-negociaciones.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-rusia-y-ucrania-acuerdan-tregua-de-32-horas-por-la-pascua-ortodoxa.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-nueva-alianza-busca-fortalecer-apoyo-a-cuidadores.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-israel-bombardea-zonas-residenciales-del-sur-del-libano-mientras-netanyahu-aprueba-negociaciones.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -968,19 +944,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-viajeros-enfrentan-mayores-costos-y-menos-opciones-de-vuelo.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-venezuela-policia-reprime-manifestaciones-que-exigen-aumento-de-salarios-y-pensiones.html</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-alcaraz-y-sinner-avanzan-a-cuartos-en-montecarlo.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -992,7 +956,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-ecuador-sube-los-aranceles-a-colombia-al-100-en-una-escalada-bilateral-sin-precedentes.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-alcaraz-y-sinner-avanzan-a-cuartos-en-montecarlo.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -1004,13 +968,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://eldiario.pr/articulo/2026-04-10-capitanes-y-mayaguez-ganan-en-el-bsn.html</loc>
+    <loc>https://eldiario.pr/articulo/2026-04-10-ecuador-sube-los-aranceles-a-colombia-al-100-en-una-escalada-bilateral-sin-precedentes.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-10-cuba-y-rusia-refuerzan-su-cooperacion-economica.html</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-10-capitanes-y-mayaguez-ganan-en-el-bsn.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -3291,6 +3261,36 @@
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-04-03-senado-academico-de-rio-piedras-responde-en-carta-abierta-sobre-situacion-universitaria.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-03-cuba-indulta-a-mas-de-dos-mil-presos-en-celebraciones-de-semana-santa.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-03-mayaguez-aprueba-unanimemente-nuevo-codigo-de-orden-publico.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-03-los-siete-dolores-de-maria-encarnados-en-la-mujer-boricua-de-2026.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-03-las-siete-palabras-encarnadas-en-puerto-rico-de-hoy.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-04-03-sermon-y-panel-sobre-las-siete-palabras-para-discernimiento-de-puerto-rico.html</loc>
     <lastmod>2026-04-03</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
