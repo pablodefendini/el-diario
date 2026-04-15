@@ -1626,19 +1626,19 @@ footer {
         
         <div class="header-date-nav">
           
-        <a href="./date-2026-04-14.html" class="inline-nav-button" title="Día anterior">
+        <span class="inline-nav-button disabled">
           <svg class="nav-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
           </svg>
-        </a>
+        </span>
       
           <span class="header-date-text">sábado, 4 de abril de 2026</span>
           
-        <span class="inline-nav-button disabled">
+        <a href="./date-2026-04-05.html" class="inline-nav-button" title="Día siguiente">
           <svg class="nav-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
           </svg>
-        </span>
+        </a>
       
         </div>
         
@@ -1648,15 +1648,476 @@ footer {
 
   <main class="container" style="flex: 1; padding: 2rem 0;">
     
-    <div>
-      
+    <div class="main-content-wrapper">
+      <div class="main-column">
+        
+          
           <div style="margin-bottom: 1rem;">
             <h2 class="main-content-header">Las noticias de hoy</h2>
+            <div class="content-header-row">
+              <nav class="section-nav">
+                <a href="#section-la-nacion">La Nación</a>
+                <a href="#section-el-mundo">El Mundo</a>
+                <a href="#section-estados-unidos">Estados Unidos</a>
+                <a href="#section-cultura">Cultura</a>
+                <a href="#section-deportes">Deportes</a>
+              </nav>
+              <button class="collapse-toggle" onclick="toggleExcerpts()">
+                <span id="collapse-toggle-text">ocultar textos</span>
+                <span class="toggle-switch"></span>
+              </button>
+            </div>
           </div>
-          <div class="text-center" style="padding: 3rem 0;">
-            <p class="text-muted-foreground text-lg">No hay noticias para esta fecha</p>
+
+          
+            <div id="news-container" style="margin-bottom: 2rem;">
+              
+        <div class="news-section" id="section-la-nacion">
+          <div class="section-header" onclick="toggleSection('section-la-nacion')">
+            <h3 class="section-title">
+              <span class="section-toggle-icon">▼</span>
+              La Nación
+              <span class="section-article-count">(2)</span>
+            </h3>
           </div>
+          <div class="section-content">
+            
+    <article class="news-item" id="denuncian-incumplimiento-en-servicios-para-personas-con-autismo">
+      <span class="news-category">Derechos</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-denuncian-incumplimiento-en-servicios-para-personas-con-autismo.html" title="Leer artículo completo">
+          Denuncian incumplimiento en servicios para personas con autismo
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Organizaciones denuncian que el gobierno de Puerto Rico incumple con ley que garantiza servicios para personas con autismo. Las deficiencias limitan acceso a terapias y apoyo necesario.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/locales/notas/no-estan-haciendo-nada-denuncian-incumplimiento-con-ley-que-garantiza-servicios-para-personas-con-autismo/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+    <article class="news-item" id="corrientes-marinas-y-desastres-naturales-en-costas-de-pr">
+      <span class="news-category">Desastres Naturales</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-corrientes-marinas-y-desastres-naturales-en-costas-de-pr.html" title="Leer artículo completo">
+          Corrientes marinas y desastres naturales en costas de PR
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Advertencias por corrientes marinas peligrosas en playas de PR durante fin de semana de Semana Santa. Rescates de turistas en Condado, inundaciones en Buyé y desbordamientos de quebradas afectan la costa boricua.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/seguridad/notas/no-es-dia-para-la-playa-persiste-alto-riesgo-de-corrientes-marinas-este-viernes-santo/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.metro.pr/noticias/2026/04/03/turistas-quedan-atrapados-por-inundaciones-y-congestion-vehicular/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=metro.pr&sz=16" alt="Metro favicon" />
+    Metro
+  </a>
+
+  <a href="https://www.metro.pr/noticias/2026/04/03/rescatan-a-turista-arrastrada-por-corrientes-en-playa-del-condado/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=metro.pr&sz=16" alt="Metro favicon" />
+    Metro
+  </a>
+
+  <a href="https://www.metro.pr/noticias/2026/04/03/oleaje-disminuye-pero-persiste-el-riesgo/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=metro.pr&sz=16" alt="Metro favicon" />
+    Metro
+  </a>
+
+  <a href="https://teleonce.com/noticias/locales/rescatan-a-turista-arrastrada-por-corrientes-en-playa-del-condado/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=teleonce.com&sz=16" alt="TeleOnce favicon" />
+    TeleOnce
+  </a>
+
+  <a href="https://wapa.tv/noticias/eltiempo/fuera-del-agua-riesgo-alto-de-corrientes-marinas-en-gran-parte-de-las-costas/article_b75a3abd-ef48-4844-8ce4-65fdca75cdf5.html?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=wapa.tv&sz=16" alt="Wapa TV favicon" />
+    Wapa TV
+  </a>
+
+  <a href="https://teleonce.com/noticias/locales/desbordamiento-de-quebrada-provoca-inundaciones-en-playa-buye-en-cabo-rojo/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=teleonce.com&sz=16" alt="TeleOnce favicon" />
+    TeleOnce
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+          </div>
+        </div>
+      
+        <div class="news-section" id="section-el-mundo">
+          <div class="section-header" onclick="toggleSection('section-el-mundo')">
+            <h3 class="section-title">
+              <span class="section-toggle-icon">▼</span>
+              El Mundo
+              <span class="section-article-count">(3)</span>
+            </h3>
+          </div>
+          <div class="section-content">
+            
+    <article class="news-item" id="se-elevan-a-512-las-muertes-en-carceles-salvadorenas-bajo-regimen-de-excepcion">
+      <span class="news-category">Justicia</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-se-elevan-a-512-las-muertes-en-carceles-salvadorenas-bajo-regimen-de-excepcion.html" title="Leer artículo completo">
+          Se elevan a 512 las muertes en cárceles salvadoreñas bajo régimen de excepción
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">El régimen de excepción implementado en El Salvador ha resultado en 512 muertes en cárceles del país. Las cifras evidencian la escalada de violencia carcelaria bajo políticas de encarcelamiento masivo.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/mundo/notas/se-elevan-a-512-las-muertes-en-carceles-salvadorenas-bajo-regimen-de-excepcion/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+    <article class="news-item" id="papa-leon-xiv-reflexiones-sobre-paz-durante-semana-santa">
+      <span class="news-category">Cultura</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-papa-leon-xiv-reflexiones-sobre-paz-durante-semana-santa.html" title="Leer artículo completo">
+          Papa León XIV: reflexiones sobre paz durante Semana Santa
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">El Papa León XIV participó en ceremonias de Viernes Santo en el Vaticano, exhortando por la paz en Oriente Medio y contra la guerra. Su mensaje resuena en contexto de conflictos globales durante celebración pascual del cristianismo.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/mundo/notas/papa-leon-xiv-reza-postrado-en-el-suelo-de-la-basilica-de-san-pedro-por-la-pasion-de-cristo/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.metro.pr/noticias/2026/04/03/papa-leon-xiv-clama-contra-la-guerra-en-su-primer-via-crucis-en-roma/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=metro.pr&sz=16" alt="Metro favicon" />
+    Metro
+  </a>
+
+  <a href="https://www.metro.pr/noticias/2026/04/03/papa-leon-xiv-pide-reabrir-el-dialogo-para-una-paz-justa-en-oriente-medio/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=metro.pr&sz=16" alt="Metro favicon" />
+    Metro
+  </a>
+
+  <a href="https://eyboricua.com/el-papa-leon-xiv-encabeza-rito-de-viernes-santo-en-el-vaticano/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=eyboricua.com&sz=16" alt="Ey Boricua favicon" />
+    Ey Boricua
+  </a>
+
+  <a href="https://wapa.tv/noticias/internacionales/el-papa-le-n-xiv-hace-llamado-a-la-paz-durante-esta-semana-santa/article_8cd0437d-40e6-4957-88a2-746d2f4b3a76.html?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=wapa.tv&sz=16" alt="Wapa TV favicon" />
+    Wapa TV
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+    <article class="news-item" id="guardia-revolucionaria-irani-ataca-centro-de-datos-de-amazon-en-barein">
+      <span class="news-category">Seguridad</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-guardia-revolucionaria-irani-ataca-centro-de-datos-de-amazon-en-barein.html" title="Leer artículo completo">
+          Guardia Revolucionaria iraní ataca centro de datos de Amazon en Baréin
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">La Guardia Revolucionaria iraní afirma haber atacado infraestructura tecnológica de Amazon ubicada en Baréin. El ataque responde a escalada de tensiones geopolíticas en el Golfo Pérsico.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/mundo/notas/guardia-revolucionaria-irani-dice-que-ha-atacado-un-centro-de-datos-de-amazon-en-barein/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+          </div>
+        </div>
+      
+        <div class="news-section" id="section-estados-unidos">
+          <div class="section-header" onclick="toggleSection('section-estados-unidos')">
+            <h3 class="section-title">
+              <span class="section-toggle-icon">▼</span>
+              Estados Unidos
+              <span class="section-article-count">(4)</span>
+            </h3>
+          </div>
+          <div class="section-content">
+            
+    <article class="news-item" id="trump-ordena-pagos-a-empleados-del-dhs-durante-cierre">
+      <span class="news-category">Gobierno</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-trump-ordena-pagos-a-empleados-del-dhs-durante-cierre.html" title="Leer artículo completo">
+          Trump ordena pagos a empleados del DHS durante cierre
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Trump ordenó al Departamento de Seguridad Nacional pagar a 35,000 empleados afectados por cierre temporal. Medida busca mantener operaciones federales y mitigar impacto económico durante disputas presupuestarias.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/donald-trump-ordena-el-pago-a-35000-empleados-afectados-por-cierre-del-departamento-de-seguridad-nacional/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.primerahora.com/noticias/estados-unidos/notas/trump-ordena-el-pago-a-empleados-afectados-por-cierre-del-departamento-de-seguridad/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=primerahora.com&sz=16" alt="Primera Hora favicon" />
+    Primera Hora
+  </a>
+
+  <a href="https://www.telemundopr.com/noticias/eeuu/trump-ordena-al-dhs-pagar-a-todos-sus-empleados-cierre-parcial/2800424/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=telemundopr.com&sz=16" alt="Telemundo favicon" />
+    Telemundo
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+    <article class="news-item" id="escalada-en-oriente-medio-eeuu-e-iran-en-conflicto-aereo">
+      <span class="news-category">Seguridad</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-escalada-en-oriente-medio-eeuu-e-iran-en-conflicto-aereo.html" title="Leer artículo completo">
+          Escalada en Oriente Medio: EE.UU. e Irán en conflicto aéreo
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Tensión máxima en el Estrecho de Ormuz: Irán derribó cazas estadounidenses, dejando 13 muertos y 365 heridos según el Pentágono. EE.UU. rescató tripulantes en operativos de recuperación. El conflicto marca escalada peligrosa entre potencias en la región.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/el-pentagono-informa-guerra-con-iran-ha-dejado-13-militares-estadounidenses-muertos-y-365-heridos/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/estados-unidos-rescata-a-uno-de-los-dos-tripulantes-del-avion-de-combate-derribado-en-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/un-avion-de-combate-estadounidense-se-estrella-en-ormuz-luego-de-que-iran-derribara-un-caza-f-15/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.primerahora.com/noticias/estados-unidos/notas/trece-militares-estadounidenses-muertos-y-365-heridos-el-saldo-de-la-operacion-furia-epica-hasta-el-momento/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=primerahora.com&sz=16" alt="Primera Hora favicon" />
+    Primera Hora
+  </a>
+
+  <a href="https://www.primerahora.com/noticias/estados-unidos/notas/otro-avion-de-combate-de-estados-unidos-se-estrella-en-ormuz-despues-de-que-iran-derribara-un-caza/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=primerahora.com&sz=16" alt="Primera Hora favicon" />
+    Primera Hora
+  </a>
+
+  <a href="https://noticel.com/noticias/mundo/20260403/rescatan-tripulante-de-f-15-estadounidense-derribado-sobre-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=noticel.com&sz=16" alt="Noticel favicon" />
+    Noticel
+  </a>
+
+  <a href="https://x.com/AgenciaINS/status/2040085921387680190?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=x.com&sz=16" alt="Inter News Service favicon" />
+    Inter News Service
+  </a>
+
+  <a href="https://x.com/rtvenoticias/status/2040085529341915396?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=x.com&sz=16" alt="Inter News Service favicon" />
+    Inter News Service
+  </a>
+
+  <a href="https://teleonce.com/noticias/internacionales/avion-de-la-fuerza-aerea-de-los-estados-unidos-habria-sido-abatido-en-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=teleonce.com&sz=16" alt="TeleOnce favicon" />
+    TeleOnce
+  </a>
+
+  <a href="https://teleonce.com/noticias/internacionales/rescatan-a-uno-de-los-tripulantes-tras-presunto-derribo-de-avion-de-estados-unidos-en-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=teleonce.com&sz=16" alt="TeleOnce favicon" />
+    TeleOnce
+  </a>
+
+  <a href="https://wapa.tv/noticias/internacionales/avi-n-de-combate-estadounidense-derribado-en-ir-n-un-tripulante-rescatado/article_b85b8c49-d3cf-4eb4-aba4-3ec5a09646f8.html?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=wapa.tv&sz=16" alt="Wapa TV favicon" />
+    Wapa TV
+  </a>
+
+  <a href="https://wapa.tv/noticias/internacionales/un-avi-n-de-combate-estadounidense-derribado-seg-n-medios-de-ir-n-y-eeuu/article_84eb6792-64d0-4f89-8a55-a53a6aa0a4b9.html?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=wapa.tv&sz=16" alt="Wapa TV favicon" />
+    Wapa TV
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+    <article class="news-item" id="juez-del-tribunal-supremo-samuel-alito-enfrenta-problemas-de-salud">
+      <span class="news-category">Gobierno</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-juez-del-tribunal-supremo-samuel-alito-enfrenta-problemas-de-salud.html" title="Leer artículo completo">
+          Juez del Tribunal Supremo Samuel Alito enfrenta problemas de salud
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Se reveló que Samuel Alito, juez del Tribunal Supremo estadounidense, atravesó momento de enfermedad. Detalles sobre la condición médica del magistrado permanecen limitados.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/revelan-momento-de-enfermedad-del-juez-del-tribunal-supremo-federal-samuel-alito/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+    <article class="news-item" id="brote-de-e-coli-en-quesos-crudos-granja-retira-productos-mientras-fda-investiga">
+      <span class="news-category">Salud</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-brote-de-e-coli-en-quesos-crudos-granja-retira-productos-mientras-fda-investiga.html" title="Leer artículo completo">
+          Brote de E. coli en quesos crudos: granja retira productos mientras FDA investiga
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Una granja de productos lácteos crudos retiró quesos del mercado mientras la FDA investiga brote de E. coli vinculado a sus productos. Medida preventiva busca proteger salud pública.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/granja-de-productos-lacteos-crudos-retira-algunos-quesos-mientras-la-fda-investiga-brote-de-e-coli/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+          </div>
+        </div>
+      
+            </div>
+          
         
+      </div>
+      <aside class="sidebar-column">
+        
+    <div class="opinion-sidebar">
+      <h2 class="opinion-sidebar-header">Opiniones</h2>
+      
+      <div class="opinion-sidebar-item">
+        <div class="opinion-sidebar-author">Rosa Seguí</div>
+        <h3 class="opinion-sidebar-headline">
+          <a href="./articulo/2026-04-09-la-upr-existe-porque-resiste.html">La UPR existe porque resiste</a>
+        </h3>
+        <div class="opinion-sidebar-date">9 abr</div>
+      </div>
+    
+      <div class="opinion-sidebar-item">
+        <div class="opinion-sidebar-author">Denis Márquez</div>
+        <h3 class="opinion-sidebar-headline">
+          <a href="./articulo/2026-04-09-a-hacerle-justicia-presupuestaria-a-la-upr.html">A hacerle justicia presupuestaria a la UPR</a>
+        </h3>
+        <div class="opinion-sidebar-date">9 abr</div>
+      </div>
+    
+      <div class="opinion-sidebar-item">
+        
+        <h3 class="opinion-sidebar-headline">
+          <a href="./articulo/2026-04-06-derrota-del-sionismo-y-del-imperio-bajo-analisis-geopolitico.html">Derrota del sionismo y del imperio bajo análisis geopolítico</a>
+        </h3>
+        <div class="opinion-sidebar-date">6 abr</div>
+      </div>
+    
+      <a href="./categoria-opinion.html" class="opinion-sidebar-link">Ver todas las columnas de opinión →</a>
+    </div>
+  
+        
+    <div class="archive-sidebar">
+      <h2 class="archive-sidebar-header">Periódicos de ayer</h2>
+      
+      <div class="archive-month">
+        <div class="archive-month-header">abril 2026</div>
+        <div class="archive-calendar-grid">
+          <div class="archive-weekday-header">L</div><div class="archive-weekday-header">M</div><div class="archive-weekday-header">X</div><div class="archive-weekday-header">J</div><div class="archive-weekday-header">V</div><div class="archive-weekday-header">S</div><div class="archive-weekday-header">D</div>
+    <div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><a href="./date-2026-04-01.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 1 de abril">1</a><a href="./date-2026-04-02.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 2 de abril">2</a><a href="./date-2026-04-03.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 3 de abril">3</a><span class="archive-day archive-day-current">4</span><a href="./date-2026-04-05.html" class="archive-day archive-day-available" title="domingo, 5 de abril">5</a><a href="./date-2026-04-06.html" class="archive-day archive-day-available" title="lunes, 6 de abril">6</a><a href="./date-2026-04-07.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 7 de abril">7</a><a href="./date-2026-04-08.html" class="archive-day archive-day-available" title="miércoles, 8 de abril">8</a><a href="./date-2026-04-09.html" class="archive-day archive-day-available" title="jueves, 9 de abril">9</a><a href="./date-2026-04-10.html" class="archive-day archive-day-available" title="viernes, 10 de abril">10</a><a href="./date-2026-04-11.html" class="archive-day archive-day-available" title="sábado, 11 de abril">11</a><a href="./date-2026-04-12.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 12 de abril">12</a><a href="./date-2026-04-13.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 13 de abril">13</a><a href="./date-2026-04-14.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 14 de abril">14</a><a href="./index.html" class="archive-day archive-day-available" title="miércoles, 15 de abril">15</a><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div>
+        </div>
+      </div>
+    
+      <div class="archive-month">
+        <div class="archive-month-header">marzo 2026</div>
+        <div class="archive-calendar-grid">
+          <div class="archive-weekday-header">L</div><div class="archive-weekday-header">M</div><div class="archive-weekday-header">X</div><div class="archive-weekday-header">J</div><div class="archive-weekday-header">V</div><div class="archive-weekday-header">S</div><div class="archive-weekday-header">D</div>
+    <div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><a href="./date-2026-03-01.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 1 de marzo">1</a><a href="./date-2026-03-02.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 2 de marzo">2</a><a href="./date-2026-03-03.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 3 de marzo">3</a><a href="./date-2026-03-04.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 4 de marzo">4</a><a href="./date-2026-03-05.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 5 de marzo">5</a><a href="./date-2026-03-06.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 6 de marzo">6</a><a href="./date-2026-03-07.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 7 de marzo">7</a><a href="./date-2026-03-08.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 8 de marzo">8</a><a href="./date-2026-03-09.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 9 de marzo">9</a><a href="./date-2026-03-10.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 10 de marzo">10</a><a href="./date-2026-03-11.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 11 de marzo">11</a><a href="./date-2026-03-12.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 12 de marzo">12</a><a href="./date-2026-03-13.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 13 de marzo">13</a><a href="./date-2026-03-14.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 14 de marzo">14</a><a href="./date-2026-03-15.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 15 de marzo">15</a><a href="./date-2026-03-16.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 16 de marzo">16</a><a href="./date-2026-03-17.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 17 de marzo">17</a><a href="./date-2026-03-18.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 18 de marzo">18</a><a href="./date-2026-03-19.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 19 de marzo">19</a><a href="./date-2026-03-20.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 20 de marzo">20</a><a href="./date-2026-03-21.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 21 de marzo">21</a><a href="./date-2026-03-22.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 22 de marzo">22</a><a href="./date-2026-03-23.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 23 de marzo">23</a><a href="./date-2026-03-24.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 24 de marzo">24</a><a href="./date-2026-03-25.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 25 de marzo">25</a><a href="./date-2026-03-26.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 26 de marzo">26</a><a href="./date-2026-03-27.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 27 de marzo">27</a><a href="./date-2026-03-28.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 28 de marzo">28</a><a href="./date-2026-03-29.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 29 de marzo">29</a><a href="./date-2026-03-30.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 30 de marzo">30</a><a href="./date-2026-03-31.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 31 de marzo">31</a>
+        </div>
+      </div>
+    
+      <div class="archive-month">
+        <div class="archive-month-header">febrero 2026</div>
+        <div class="archive-calendar-grid">
+          <div class="archive-weekday-header">L</div><div class="archive-weekday-header">M</div><div class="archive-weekday-header">X</div><div class="archive-weekday-header">J</div><div class="archive-weekday-header">V</div><div class="archive-weekday-header">S</div><div class="archive-weekday-header">D</div>
+    <div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><a href="./date-2026-02-01.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 1 de febrero">1</a><a href="./date-2026-02-02.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 2 de febrero">2</a><a href="./date-2026-02-03.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 3 de febrero">3</a><a href="./date-2026-02-04.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 4 de febrero">4</a><a href="./date-2026-02-05.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 5 de febrero">5</a><a href="./date-2026-02-06.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 6 de febrero">6</a><a href="./date-2026-02-07.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 7 de febrero">7</a><a href="./date-2026-02-08.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 8 de febrero">8</a><a href="./date-2026-02-09.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 9 de febrero">9</a><a href="./date-2026-02-10.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 10 de febrero">10</a><a href="./date-2026-02-11.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 11 de febrero">11</a><a href="./date-2026-02-12.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 12 de febrero">12</a><a href="./date-2026-02-13.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 13 de febrero">13</a><a href="./date-2026-02-14.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 14 de febrero">14</a><a href="./date-2026-02-15.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 15 de febrero">15</a><a href="./date-2026-02-16.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 16 de febrero">16</a><a href="./date-2026-02-17.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 17 de febrero">17</a><a href="./date-2026-02-18.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 18 de febrero">18</a><a href="./date-2026-02-19.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 19 de febrero">19</a><a href="./date-2026-02-20.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 20 de febrero">20</a><a href="./date-2026-02-21.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 21 de febrero">21</a><a href="./date-2026-02-22.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 22 de febrero">22</a><a href="./date-2026-02-23.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 23 de febrero">23</a><a href="./date-2026-02-24.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 24 de febrero">24</a><a href="./date-2026-02-25.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 25 de febrero">25</a><a href="./date-2026-02-26.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 26 de febrero">26</a><a href="./date-2026-02-27.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 27 de febrero">27</a><a href="./date-2026-02-28.html" class="archive-day archive-day-available archive-day-no-articles" title="sábado, 28 de febrero">28</a>
+        </div>
+      </div>
+    
+    </div>
+  
+      </aside>
     </div>
     
   </main>
