@@ -1626,19 +1626,19 @@ footer {
         
         <div class="header-date-nav">
           
-        <a href="./date-2026-04-17.html" class="inline-nav-button" title="Día anterior">
+        <span class="inline-nav-button disabled">
           <svg class="nav-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
           </svg>
-        </a>
+        </span>
       
           <span class="header-date-text">sábado, 4 de abril de 2026</span>
           
-        <span class="inline-nav-button disabled">
+        <a href="./date-2026-04-05.html" class="inline-nav-button" title="Día siguiente">
           <svg class="nav-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
           </svg>
-        </span>
+        </a>
       
         </div>
         
@@ -1651,12 +1651,195 @@ footer {
     <div class="main-content-wrapper">
       <div class="main-column">
         
+          
           <div style="margin-bottom: 1rem;">
             <h2 class="main-content-header">Las noticias de hoy</h2>
+            <div class="content-header-row">
+              <nav class="section-nav">
+                <a href="#section-la-nacion">La Nación</a>
+                <a href="#section-el-mundo">El Mundo</a>
+                <a href="#section-estados-unidos">Estados Unidos</a>
+                <a href="#section-cultura">Cultura</a>
+                <a href="#section-deportes">Deportes</a>
+              </nav>
+              <button class="collapse-toggle" onclick="toggleExcerpts()">
+                <span id="collapse-toggle-text">ocultar textos</span>
+                <span class="toggle-switch"></span>
+              </button>
+            </div>
           </div>
-          <div class="text-center" style="padding: 3rem 0;">
-            <p class="text-muted-foreground text-lg">No hay noticias para esta fecha</p>
+
+          
+            <div id="news-container" style="margin-bottom: 2rem;">
+              
+        <div class="news-section" id="section-el-mundo">
+          <div class="section-header" onclick="toggleSection('section-el-mundo')">
+            <h3 class="section-title">
+              <span class="section-toggle-icon">▼</span>
+              El Mundo
+              <span class="section-article-count">(1)</span>
+            </h3>
           </div>
+          <div class="section-content">
+            
+    <article class="news-item" id="se-elevan-a-512-las-muertes-en-carceles-salvadorenas-bajo-regimen-de-excepcion">
+      <span class="news-category">Justicia</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-se-elevan-a-512-las-muertes-en-carceles-salvadorenas-bajo-regimen-de-excepcion.html" title="Leer artículo completo">
+          Se elevan a 512 las muertes en cárceles salvadoreñas bajo régimen de excepción
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">El régimen de excepción implementado en El Salvador ha resultado en 512 muertes en cárceles del país. Las cifras evidencian la escalada de violencia carcelaria bajo políticas de encarcelamiento masivo.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/mundo/notas/se-elevan-a-512-las-muertes-en-carceles-salvadorenas-bajo-regimen-de-excepcion/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+          </div>
+        </div>
+      
+        <div class="news-section" id="section-estados-unidos">
+          <div class="section-header" onclick="toggleSection('section-estados-unidos')">
+            <h3 class="section-title">
+              <span class="section-toggle-icon">▼</span>
+              Estados Unidos
+              <span class="section-article-count">(2)</span>
+            </h3>
+          </div>
+          <div class="section-content">
+            
+    <article class="news-item" id="trump-ordena-pagos-a-empleados-del-dhs-durante-cierre">
+      <span class="news-category">Gobierno</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-trump-ordena-pagos-a-empleados-del-dhs-durante-cierre.html" title="Leer artículo completo">
+          Trump ordena pagos a empleados del DHS durante cierre
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Trump ordenó al Departamento de Seguridad Nacional pagar a 35,000 empleados afectados por cierre temporal. Medida busca mantener operaciones federales y mitigar impacto económico durante disputas presupuestarias.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/donald-trump-ordena-el-pago-a-35000-empleados-afectados-por-cierre-del-departamento-de-seguridad-nacional/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.primerahora.com/noticias/estados-unidos/notas/trump-ordena-el-pago-a-empleados-afectados-por-cierre-del-departamento-de-seguridad/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=primerahora.com&sz=16" alt="Primera Hora favicon" />
+    Primera Hora
+  </a>
+
+  <a href="https://www.telemundopr.com/noticias/eeuu/trump-ordena-al-dhs-pagar-a-todos-sus-empleados-cierre-parcial/2800424/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=telemundopr.com&sz=16" alt="Telemundo favicon" />
+    Telemundo
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+    <article class="news-item" id="escalada-en-oriente-medio-eeuu-e-iran-en-conflicto-aereo">
+      <span class="news-category">Seguridad</span>
+      <h2 class="news-headline">
+        <a href="./articulo/2026-04-04-escalada-en-oriente-medio-eeuu-e-iran-en-conflicto-aereo.html" title="Leer artículo completo">
+          Escalada en Oriente Medio: EE.UU. e Irán en conflicto aéreo
+        </a>
+      </h2>
+      
+      
+      <div class="news-excerpt">Tensión máxima en el Estrecho de Ormuz: Irán derribó cazas estadounidenses, dejando 13 muertos y 365 heridos según el Pentágono. EE.UU. rescató tripulantes en operativos de recuperación. El conflicto marca escalada peligrosa entre potencias en la región.</div>
+      
+      <div class="news-links">
+        <h3>Artículos sobre esta noticia:</h3>
+        <div class="news-links-container">
+          
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/el-pentagono-informa-guerra-con-iran-ha-dejado-13-militares-estadounidenses-muertos-y-365-heridos/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/estados-unidos-rescata-a-uno-de-los-dos-tripulantes-del-avion-de-combate-derribado-en-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.elnuevodia.com/noticias/estados-unidos/notas/un-avion-de-combate-estadounidense-se-estrella-en-ormuz-luego-de-que-iran-derribara-un-caza-f-15/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=elnuevodia.com&sz=16" alt="El Nuevo Día favicon" />
+    El Nuevo Día
+  </a>
+
+  <a href="https://www.primerahora.com/noticias/estados-unidos/notas/trece-militares-estadounidenses-muertos-y-365-heridos-el-saldo-de-la-operacion-furia-epica-hasta-el-momento/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=primerahora.com&sz=16" alt="Primera Hora favicon" />
+    Primera Hora
+  </a>
+
+  <a href="https://www.primerahora.com/noticias/estados-unidos/notas/otro-avion-de-combate-de-estados-unidos-se-estrella-en-ormuz-despues-de-que-iran-derribara-un-caza/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=primerahora.com&sz=16" alt="Primera Hora favicon" />
+    Primera Hora
+  </a>
+
+  <a href="https://noticel.com/noticias/mundo/20260403/rescatan-tripulante-de-f-15-estadounidense-derribado-sobre-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=noticel.com&sz=16" alt="Noticel favicon" />
+    Noticel
+  </a>
+
+  <a href="https://x.com/AgenciaINS/status/2040085921387680190?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=x.com&sz=16" alt="Inter News Service favicon" />
+    Inter News Service
+  </a>
+
+  <a href="https://x.com/rtvenoticias/status/2040085529341915396?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=x.com&sz=16" alt="Inter News Service favicon" />
+    Inter News Service
+  </a>
+
+  <a href="https://teleonce.com/noticias/internacionales/avion-de-la-fuerza-aerea-de-los-estados-unidos-habria-sido-abatido-en-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=teleonce.com&sz=16" alt="TeleOnce favicon" />
+    TeleOnce
+  </a>
+
+  <a href="https://teleonce.com/noticias/internacionales/rescatan-a-uno-de-los-tripulantes-tras-presunto-derribo-de-avion-de-estados-unidos-en-iran/?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=teleonce.com&sz=16" alt="TeleOnce favicon" />
+    TeleOnce
+  </a>
+
+  <a href="https://wapa.tv/noticias/internacionales/avi-n-de-combate-estadounidense-derribado-en-ir-n-un-tripulante-rescatado/article_b85b8c49-d3cf-4eb4-aba4-3ec5a09646f8.html?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=wapa.tv&sz=16" alt="Wapa TV favicon" />
+    Wapa TV
+  </a>
+
+  <a href="https://wapa.tv/noticias/internacionales/un-avi-n-de-combate-estadounidense-derribado-seg-n-medios-de-ir-n-y-eeuu/article_84eb6792-64d0-4f89-8a55-a53a6aa0a4b9.html?utm_source=eldiariopr&amp;utm_medium=referral&amp;utm_campaign=news_aggregation" target="_blank" rel="noopener noreferrer" class="news-link">
+    <img src="https://www.google.com/s2/favicons?domain=wapa.tv&sz=16" alt="Wapa TV favicon" />
+    Wapa TV
+  </a>
+
+        </div>
+      </div>
+      
+    </article>
+  
+          </div>
+        </div>
+      
+            </div>
+          
         
       </div>
       <aside class="sidebar-column">
@@ -1715,7 +1898,7 @@ footer {
         <div class="archive-month-header">abril 2026</div>
         <div class="archive-calendar-grid">
           <div class="archive-weekday-header">L</div><div class="archive-weekday-header">M</div><div class="archive-weekday-header">X</div><div class="archive-weekday-header">J</div><div class="archive-weekday-header">V</div><div class="archive-weekday-header">S</div><div class="archive-weekday-header">D</div>
-    <div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><a href="./date-2026-04-01.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 1 de abril">1</a><a href="./date-2026-04-02.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 2 de abril">2</a><a href="./date-2026-04-03.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 3 de abril">3</a><span class="archive-day archive-day-current">4</span><a href="./date-2026-04-05.html" class="archive-day archive-day-available" title="domingo, 5 de abril">5</a><a href="./date-2026-04-06.html" class="archive-day archive-day-available" title="lunes, 6 de abril">6</a><a href="./date-2026-04-07.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 7 de abril">7</a><a href="./date-2026-04-08.html" class="archive-day archive-day-available" title="miércoles, 8 de abril">8</a><a href="./date-2026-04-09.html" class="archive-day archive-day-available" title="jueves, 9 de abril">9</a><a href="./date-2026-04-10.html" class="archive-day archive-day-available" title="viernes, 10 de abril">10</a><a href="./date-2026-04-11.html" class="archive-day archive-day-available" title="sábado, 11 de abril">11</a><a href="./date-2026-04-12.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 12 de abril">12</a><a href="./date-2026-04-13.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 13 de abril">13</a><a href="./date-2026-04-14.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 14 de abril">14</a><a href="./date-2026-04-15.html" class="archive-day archive-day-available" title="miércoles, 15 de abril">15</a><a href="./date-2026-04-16.html" class="archive-day archive-day-available" title="jueves, 16 de abril">16</a><a href="./index.html" class="archive-day archive-day-available" title="viernes, 17 de abril">17</a><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div>
+    <div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><a href="./date-2026-04-01.html" class="archive-day archive-day-available archive-day-no-articles" title="miércoles, 1 de abril">1</a><a href="./date-2026-04-02.html" class="archive-day archive-day-available archive-day-no-articles" title="jueves, 2 de abril">2</a><a href="./date-2026-04-03.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 3 de abril">3</a><span class="archive-day archive-day-current">4</span><a href="./date-2026-04-05.html" class="archive-day archive-day-available" title="domingo, 5 de abril">5</a><a href="./date-2026-04-06.html" class="archive-day archive-day-available" title="lunes, 6 de abril">6</a><a href="./date-2026-04-07.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 7 de abril">7</a><a href="./date-2026-04-08.html" class="archive-day archive-day-available" title="miércoles, 8 de abril">8</a><a href="./date-2026-04-09.html" class="archive-day archive-day-available" title="jueves, 9 de abril">9</a><a href="./date-2026-04-10.html" class="archive-day archive-day-available" title="viernes, 10 de abril">10</a><a href="./date-2026-04-11.html" class="archive-day archive-day-available" title="sábado, 11 de abril">11</a><a href="./date-2026-04-12.html" class="archive-day archive-day-available archive-day-no-articles" title="domingo, 12 de abril">12</a><a href="./date-2026-04-13.html" class="archive-day archive-day-available archive-day-no-articles" title="lunes, 13 de abril">13</a><a href="./date-2026-04-14.html" class="archive-day archive-day-available archive-day-no-articles" title="martes, 14 de abril">14</a><a href="./date-2026-04-15.html" class="archive-day archive-day-available" title="miércoles, 15 de abril">15</a><a href="./date-2026-04-16.html" class="archive-day archive-day-available" title="jueves, 16 de abril">16</a><a href="./date-2026-04-17.html" class="archive-day archive-day-available archive-day-no-articles" title="viernes, 17 de abril">17</a><a href="./index.html" class="archive-day archive-day-available" title="sábado, 18 de abril">18</a><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div><div class="archive-day archive-day-empty"></div>
         </div>
       </div>
     
