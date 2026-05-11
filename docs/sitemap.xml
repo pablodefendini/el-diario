@@ -3,15 +3,21 @@
 
   <url>
     <loc>https://eldiario.pr</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://eldiario.pr</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/date-2026-05-10.html</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/date-2026-05-09.html</loc>
@@ -141,483 +147,813 @@
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-energia.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-agua.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-corrupcion.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-trabajadores.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-economia.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-la-colonia.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-legislatura.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-derechos.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-justicia.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-salud.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-crisis-climatica.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-deportes.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-cultura.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-entretenimiento.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-educacion.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-politica.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-elecciones.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-internacional.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-ambiente.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-desastres-naturales.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-vivienda.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-gobierno.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-negocios.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-seguridad.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-tecnologia.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-infraestructura.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-transportacion.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-comunidades.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eldiario.pr/categoria-estados-unidos.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-la-deuda.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-trabajadores.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-corrupcion.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-justicia.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-la-colonia.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-economia.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-vivienda.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-educacion.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-salud.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-tecnologia.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-legislatura.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-seguridad.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-ambiente.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-crisis-climatica.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-entretenimiento.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-internacional.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-cultura.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-estados-unidos.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-elecciones.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-politica.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-medios.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-opinion.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-agua.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-derechos.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-deportes.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-desastres-naturales.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-gobierno.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-negocios.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-infraestructura.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-transportacion.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/categoria-comunidades.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-municipios.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-hipica.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-atletismo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-futbol.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-beisbol.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-voleibol.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-baloncesto.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-musica.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-teatro.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-gastronomia.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-eventos.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-comunicaciones.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-clima.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-policia.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-movilizacion.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-la-nacion.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-el-mundo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-movimiento-social.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-sociedad.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-el-tiempo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-cine.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-arte.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-festivales.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-medio-oriente.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-latinoamerica.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-europa.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-asia.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-africa.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-militar.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-legislacion.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-tiempo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-boxeo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-polo-acuatico.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-universitario.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-patrimonio.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-espectaculos.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-medio-ambiente.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-gobierno-federal.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-comercio.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-corporaciones.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-conflicto-eeuu-iran.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-japon.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-mexico.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-cuba.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-reino-unido.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-union-europea.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-israel-libano.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-sistema-de-agua.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/categoria-sistema-electrico.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-sistema-electrico-llega-a-la-epoca-critica-con-las-mismas-plantas-de-hace-un-ano.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-tribunal-federal-devuelve-a-foro-estatal-los-pleitos-contra-el-contrato-de-luma.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-alcaldes-le-piden-a-washington-restaurar-700-millones-para-resiliencia-energetica.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-denuncian-inaccion-de-luma-y-la-aaa-ante-la-crisis-en-cupey-y-montehiedra.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-gobierno-y-la-junta-de-supervision-fiscal-aplazan-al-15-de-mayo-la-entrega-del-presupuesto.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-sindicatos-van-manana-a-la-camara-a-defender-la-comision-evaluadora-del-salario-minimo.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-contralora-ordena-recobrar-410677-a-la-autoridad-de-tierras-por-pagos-sin-contrato.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-representante-ppd-pide-al-departamento-de-justicia-investigar-a-las-comisionadas-de-la-ocif.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-delegacion-del-ppd-en-el-senado-pide-reabrir-el-caso-contra-suzanne-roig.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-la-reasignacion-de-prioridades-federales-pone-en-pausa-los-casos-de-corrupcion-local.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-hacienda-comienza-hoy-a-notificar-el-alivio-contributivo.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-gobierno-anuncia-inversion-de-171-millones-en-41-residenciales-publicos.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-recinto-de-mayaguez-de-la-upr-extiende-el-semestre-por-las-manifestaciones.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-salud-llama-a-la-calma-por-el-brote-de-norovirus-en-el-crucero-que-partio-de-san-juan.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-una-decada-de-crecimiento-poblacional-natural-negativo-en-puerto-rico.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-una-empresa-estudia-a-puerto-rico-para-instalar-hubs-submarinos-de-inteligencia-artificial.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-proyecto-del-senado-obligaria-a-tiendas-grandes-de-comida-a-donar-excedentes-comestibles.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-boricua-lidera-el-proyecto-de-la-nasa-que-mide-el-desarrollo-humano-desde-la-luz-nocturna.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-tres-hombres-mueren-ahogados-en-arecibo-el-dia-de-las-madres-tras-un-rescate-fallido.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-yunque-necesita-las-manos-y-los-corazones-de-puerto-rico-dice-su-supervisor.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-persistiran-las-altas-temperaturas-y-los-aguaceros-durante-toda-la-semana.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-triple-de-pineiro-en-tiempo-extra-le-da-la-victoria-a-los-capitanes-sobre-los-indios.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-barcelona-se-proclama-campeon-de-laliga-tras-ganar-el-clasico-al-real-madrid.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-psg-queda-a-un-punto-del-titulo-tras-un-golazo-de-desire-doue.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-anthony-edwards-y-los-timberwolves-empatan-la-serie-tras-la-expulsion-de-wembanyama.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-jasmine-camacho-quinn-anuncia-su-primer-embarazo-y-adelanta-que-volvera-a-la-pista.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-prospecto-top-de-grandes-ligas-se-autodeporta-tras-declararse-culpable-de-trafico-migratorio.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-las-troyanas-la-cantata-llega-al-festival-casals-2026-con-figuras-del-teatro-y-la-musica.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-la-fortaleza-abre-la-convocatoria-para-la-escuela-taller-de-arquitectura-y-conservacion.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-reconocen-a-jovenes-poetas-en-el-certamen-de-poesia-juvenil-cooperativista-2026.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-poetas-nuyorican-un-retrato-teatral-de-la-migracion-la-carcel-y-el-amor-en-nueva-york.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-los-beatles-tendran-su-primer-museo-en-londres-en-el-edificio-donde-grabaron-su-ultimo-album.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-trump-rechaza-la-respuesta-de-iran-y-amenaza-con-tomar-el-uranio-enriquecido.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-trump-promete-enviar-un-election-integrity-army-a-cada-estado-para-las-elecciones-de-medio-termino.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-funcionaria-del-interior-admite-cambios-de-politica-que-beneficiaron-los-ranchos-de-su-familia.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-cdc-dice-que-el-hantavirus-no-es-como-el-covid-mientras-17-pasajeros-van-a-cuarentena.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-el-plan-de-gold-card-de-trump-no-encuentra-clientela-y-hasta-la-exabogada-de-melania-lo-critica.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-trump-impulsa-el-debate-sobre-su-sucesor-entre-marco-rubio-y-jd-vance-dentro-de-mar-a-lago.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-israel-armo-una-base-secreta-en-iraq-desde-la-cual-habria-bombardeado-a-iran-segun-el-wsj.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-buque-surcoreano-y-carguero-en-ormuz-son-atacados-mientras-kuwait-y-eau-prueban-el-alto-el-fuego.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-iran-envia-su-contrapropuesta-de-paz-a-estados-unidos-via-pakistan.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-exprimer-ministro-de-qatar-dice-que-netanyahu-usa-la-guerra-para-redisenar-el-medio-oriente.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-rusia-y-ucrania-se-acusan-mutuamente-de-violar-la-tregua-mediada-por-estados-unidos.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-trump-viaja-a-beijing-con-la-guerra-contra-iran-como-sombra-y-china-lista-para-la-disputa.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-la-vicepresidenta-filipina-sara-duterte-es-impugnada-por-segunda-vez-en-el-congreso.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-thaksin-shinawatra-sale-de-prision-en-tailandia-y-reabre-el-debate-sobre-su-era-politica.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-india-le-pide-a-su-poblacion-conservar-combustible-y-limitar-los-viajes-ante-la-guerra-en-iran.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-cuba-defiende-sus-prioridades-de-desarrollo-y-diaz-canel-visita-plantas-claves-del-sen.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-dia-de-la-madre-en-la-habana-dos-casas-la-misma-crisis.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-continua-el-desembarco-del-crucero-mv-hondius-en-tenerife-tras-el-brote-de-hantavirus.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-keir-starmer-lucha-por-sobrevivir-politicamente-tras-la-derrota-laborista-en-las-urnas.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-mexicanas-exigen-justicia-por-las-personas-desaparecidas-en-el-dia-de-la-madre.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-un-documental-sobre-gaza-rechazado-por-la-bbc-gana-el-bafta-a-mejor-actualidad.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eldiario.pr/articulo/2026-05-11-protagonistas-y-actores-secundarios.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://eldiario.pr/articulo/2026-05-10-tribunal-federal-devuelve-a-foro-estatal-la-demanda-contra-luma-energy.html</loc>
